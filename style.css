@@ -1,0 +1,40 @@
+#application{
+	height: auto;
+	width: 738px;
+	background: #fff;
+	margin: 20px auto;
+}
+
+table{
+	width: 100%;
+}
+
+#top{
+	width: 100%;
+	text-align: right;
+}
+
+#top input,select{
+	float: left;
+}
+
+#basic_info input{
+	width: 260px;
+}
+
+#sms{
+	margin-top: 10px; 
+}
+
+#present_address{
+	top:20px;
+	margin-top: 10px; 
+}
+
+#present_address input[type="text"]{
+	width: 100px;
+}
+
+#present_address input[type="checkbox"]{
+	width: 50px;
+}
