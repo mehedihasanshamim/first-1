@@ -17,6 +17,8 @@ if(mysql_num_rows($q2)<=0){
 		echo $i." "."<a href='http://www.google.com/cse?cref=http%3A%2F%2Fwww.guha.com%2Fcref_cse.xml&q=$data&sa=Search#gsc.tab=0&gsc.q=$data&gsc.page=1'>".$rows['first_name']."</a>"."<br/>";
 	
 		
+// this is first github editing.this is awesome to me and i think that this is also wonderful for all
+
 
 	}
 
