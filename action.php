@@ -6,7 +6,7 @@
 	$q2=mysql_query("SELECT * from applicare first_name like '%$q%'");
 	
 if(mysql_num_rows($q2)<=0){
-	 	echo "No result Found";
+	 	echo "No result Found mehedi hasan shamim";
 	 	return;
 	 	}
 
